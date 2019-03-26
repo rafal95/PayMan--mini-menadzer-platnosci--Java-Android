@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayMan</string>
+
+    <string name="paylist">Lista Płatności</string>
+    <string name="newpay">Nowa Płatność</string>
+    <string name="edit">Edytuj</string>
+    <string name="save">Zapisz</string>
+    <string name="add">Dodaj</string>
+    <string name="name">Nazwa</string>
+    <string name="cost">Koszt</string>
+    <string name="date">Data</string>
+    <string name="paid">Zapłacono</string>
+</resources>
